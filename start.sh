@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 sleep 0.2
 sudo su
 sleep 0.2
